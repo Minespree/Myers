@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/github/license/Minespree/Myers.svg)](LICENSE)
 ![Documentation](https://img.shields.io/badge/docs-missing-red.svg)
 
-This is the code that powered the Myers synchronization app of the former Minespree Network. Myers bridged BungeeCord and PlayPen together by synchronizing data from PlayPen with servers registered in BungeeCord using Redis. Its name comes from the atheist blogger [PZ Myers](https://en.wikipedia.org/wiki/PZ_Myers).
+This is the code that powered the Myers synchronization app of the former Minespree Network. Myers bridges BungeeCord and PlayPen together by synchronizing data from PlayPen with servers registered in BungeeCord using Redis. Its name comes from the atheist blogger [PZ Myers](https://en.wikipedia.org/wiki/PZ_Myers).
 
 Besides the removal of some branding and configuration data, it is more or less unmodified. It is probably not _directly_ useful to third parties in its current state, but it may be help in understanding how the Minespree network operated.
 
