@@ -1,0 +1,4 @@
+name: Myers
+main: net.minespree.myers.bukkit.MyersPlugin
+author: tuxed
+version: 0.1
